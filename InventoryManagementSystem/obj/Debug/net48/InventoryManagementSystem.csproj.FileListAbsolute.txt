@@ -1,0 +1,10 @@
+C:\Users\danie\Documents\InventoryManagementSystem\bin\Debug\net48\InventoryManagementSystem.exe.config
+C:\Users\danie\Documents\InventoryManagementSystem\bin\Debug\net48\InventoryManagementSystem.exe
+C:\Users\danie\Documents\InventoryManagementSystem\bin\Debug\net48\InventoryManagementSystem.pdb
+C:\Users\danie\Documents\InventoryManagementSystem\obj\Debug\net48\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\InventoryManagementSystem\obj\Debug\net48\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\InventoryManagementSystem\obj\Debug\net48\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\InventoryManagementSystem\obj\Debug\net48\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\danie\Documents\InventoryManagementSystem\obj\Debug\net48\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\InventoryManagementSystem\obj\Debug\net48\InventoryManagementSystem.exe
+C:\Users\danie\Documents\InventoryManagementSystem\obj\Debug\net48\InventoryManagementSystem.pdb
